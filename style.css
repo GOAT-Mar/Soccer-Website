@@ -1,0 +1,17 @@
+body {
+  background:green;
+  text-align: center;
+  color: whitesmoke;
+}
+
+a:link {
+  color: chartreuse;
+}
+
+a:hover {
+  color: navajowhite;
+  font-size: 25px;
+  background-color: darkgreen;}
+Img { 
+width:500px;
+}
